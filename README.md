@@ -49,8 +49,8 @@
 |-------------|-----------------------------------|
 | Frontend    | React.js / Flutter / Next.js      |
 | Backend     | FastAPI / Node.js / Flask         |
-|Custom ML    | Rule-Based, Decision Tree,        |
-|             | Linear Regression,Threshold Rules |
+|Custom ML    | Rule-Based, Decision Tree,
+                Linear Regression,Threshold Rules |
 |Models       | Scikit-learn, TensorFlow, Keras   |
 | CV Models   | OpenCV, MobileNet, YOLOv8         |
 | DB & Auth   | Firebase / PostgreSQL / MongoDB   |
