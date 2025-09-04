@@ -1,4 +1,4 @@
-# AI Farming Assistant
+ # AI Farming Assistant
 
 🌿 AI Farming Assistant is an AI-powered intelligent assistant designed to empower farmers with smarter decision-making through real-time environmental data, machine learning models, and crop intelligence. It offers a comprehensive dashboard for crop recommendations, fertilizer planning, irrigation scheduling, pest detection, and yield predictions.
 
@@ -43,7 +43,7 @@
 
 ---
 
-## Tech Stack
+##        Tech Stack
 
 | Layer       | Technology                        |
 |-------------|-----------------------------------|
